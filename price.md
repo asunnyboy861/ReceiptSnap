@@ -49,8 +49,8 @@
 
 ## Free Trial
 - **Duration**: 7 days
-- **Type**: Free trial (auto-converts to paid monthly)
-- **Applies to**: Monthly subscription only
+- **Type**: Introductory offer (auto-converts to paid subscription)
+- **Applies to**: Monthly and Yearly subscriptions
 
 ## Policy Pages Required
 - Support Page: ✅ (Must include subscription management info)

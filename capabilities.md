@@ -42,5 +42,5 @@ Based on operation guide analysis:
 | NSLocationAlwaysAndWhenInUseUsageDescription | ReceiptSnap uses your location to suggest receipt scanning reminders near stores |
 
 ## Verification
-- Build succeeded after configuration: Pending (will verify after code generation)
-- All entitlements correct: Pending
+- Build succeeded after configuration: ✅ Verified (build_sim passed)
+- All entitlements correct: ✅ Verified (Camera, Photo Library, Location, iCloud configured)

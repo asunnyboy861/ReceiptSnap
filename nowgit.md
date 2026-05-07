@@ -15,10 +15,10 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/ReceiptSnap/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/ReceiptSnap/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/ReceiptSnap/privacy.html | ⏳ Pending |
-| Terms of Use | https://asunnyboy861.github.io/ReceiptSnap/terms.html | ⏳ Pending (required for subscription) |
+| Landing Page | https://asunnyboy861.github.io/ReceiptSnap/ | ✅ Deployed |
+| Support | https://asunnyboy861.github.io/ReceiptSnap/support.html | ✅ Deployed |
+| Privacy Policy | https://asunnyboy861.github.io/ReceiptSnap/privacy.html | ✅ Deployed |
+| Terms of Use | https://asunnyboy861.github.io/ReceiptSnap/terms.html | ✅ Deployed |
 
 ## Repository Structure
 
