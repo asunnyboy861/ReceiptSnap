@@ -9,16 +9,18 @@
 | **Repo URL** | https://github.com/asunnyboy861/ReceiptSnap |
 | **Visibility** | Public |
 | **Primary Language** | Swift |
-| **GitHub Pages** | ✅ **ENABLED** (from `/docs` folder) |
+| **GitHub Pages** | ENABLED (from /docs folder) |
 
 ## Policy Pages (Deployed from Main Repository /docs)
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/ReceiptSnap/ | ✅ Deployed |
-| Support | https://asunnyboy861.github.io/ReceiptSnap/support.html | ✅ Deployed |
-| Privacy Policy | https://asunnyboy861.github.io/ReceiptSnap/privacy.html | ✅ Deployed |
-| Terms of Use | https://asunnyboy861.github.io/ReceiptSnap/terms.html | ✅ Deployed |
+| Landing Page | https://asunnyboy861.github.io/ReceiptSnap/ | Active |
+| Support | https://asunnyboy861.github.io/ReceiptSnap/support.html | Active |
+| Privacy Policy | https://asunnyboy861.github.io/ReceiptSnap/privacy.html | Active |
+| Terms of Use | https://asunnyboy861.github.io/ReceiptSnap/terms.html | Active (REQUIRED for subscription) |
+
+**Note**: Terms of Use is REQUIRED for subscription apps per Apple App Store Review Guidelines.
 
 ## Repository Structure
 
