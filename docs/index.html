@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReceiptSnap - Smart Receipt Scanner</title>
+    <style>
+        :root { --primary: #007AFF; --bg: #F2F2F7; --card: #FFFFFF; --text: #1C1C1E; --secondary: #8E8E93; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+        .hero { background: linear-gradient(135deg, #007AFF 0%, #5856D6 100%); color: white; padding: 80px 20px; text-align: center; }
+        .hero h1 { font-size: 3rem; font-weight: 700; margin-bottom: 16px; }
+        .hero p { font-size: 1.25rem; opacity: 0.9; max-width: 600px; margin: 0 auto 32px; }
+        .hero .cta { display: inline-block; background: white; color: var(--primary); padding: 14px 32px; border-radius: 12px; text-decoration: none; font-weight: 600; font-size: 1.1rem; }
+        .features { max-width: 960px; margin: -40px auto 0; padding: 0 20px; display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
+        .feature-card { background: var(--card); border-radius: 16px; padding: 28px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+        .feature-card .icon { font-size: 2rem; margin-bottom: 12px; }
+        .feature-card h3 { font-size: 1.1rem; margin-bottom: 8px; }
+        .feature-card p { color: var(--secondary); font-size: 0.95rem; }
+        .links { max-width: 600px; margin: 60px auto; padding: 0 20px; text-align: center; }
+        .links a { display: inline-block; margin: 8px 12px; color: var(--primary); text-decoration: none; font-weight: 500; }
+        footer { text-align: center; padding: 40px 20px; color: var(--secondary); font-size: 0.85rem; }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1>ReceiptSnap</h1>
+        <p>Snap It. Sync It. Done. The smartest way to scan, organize, and track your receipts.</p>
+        <a href="https://apps.apple.com/app/receiptsnap" class="cta">Download on App Store</a>
+    </div>
+    <div class="features">
+        <div class="feature-card">
+            <div class="icon">📸</div>
+            <h3>Instant OCR Scan</h3>
+            <p>Point your camera at any receipt and watch as merchant, total, tax, and date are extracted automatically.</p>
+        </div>
+        <div class="feature-card">
+            <div class="icon">🔔</div>
+            <h3>Smart Reminders</h3>
+            <p>Location-aware and habit-based reminders so you never forget to scan a receipt again.</p>
+        </div>
+        <div class="feature-card">
+            <div class="icon">📊</div>
+            <h3>Expense Analytics</h3>
+            <p>Visualize spending by category, month, and merchant with interactive charts.</p>
+        </div>
+        <div class="feature-card">
+            <div class="icon">☁️</div>
+            <h3>iCloud Sync</h3>
+            <p>All your receipts sync seamlessly across iPhone and iPad via iCloud.</p>
+        </div>
+        <div class="feature-card">
+            <div class="icon">📁</div>
+            <h3>Easy Export</h3>
+            <p>Export to CSV for spreadsheets, accounting software, or tax preparation.</p>
+        </div>
+        <div class="feature-card">
+            <div class="icon">🔒</div>
+            <h3>Private & Secure</h3>
+            <p>All OCR processing happens on-device. Your financial data never leaves your phone.</p>
+        </div>
+    </div>
+    <div class="links">
+        <a href="support.html">Support</a>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="terms.html">Terms of Use</a>
+    </div>
+    <footer>
+        <p>&copy; 2026 ZZoutuo. All rights reserved.</p>
+    </footer>
+</body>
+</html>
